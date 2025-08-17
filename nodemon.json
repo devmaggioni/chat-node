@@ -1,0 +1,6 @@
+{
+  "watch": ["src", "public"],
+  "ext": "ts,json,tsx,jsx,js,html,css",
+  "ignore": ["dist"],
+  "exec": "tsc && node dist/index.js"
+}
